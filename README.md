@@ -10,4 +10,4 @@ git clone https://github.com/roshanadh/saptarangi/
 * Enable Developer Mode
 * Click on 'Load unpacked' button
 * Select the folder you just cloned the repo in
-* Enjoy the rainbow :rainbow:!
+* Enjoy the rainbow!
