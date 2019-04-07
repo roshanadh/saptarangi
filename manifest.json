@@ -5,5 +5,12 @@
 	"manifest_version": 2,
 	"browser_action": {
 		"default_title": "Embrace the Saptarangi!"
-	}
+	},
+	"permissions": [
+		"activeTab"
+	],
+	"background" : {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
 }
