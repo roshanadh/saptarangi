@@ -1,0 +1,9 @@
+{
+	"name": "Saptarangi",
+	"description": "Change webpage background to any of the seven in a rainbow (Saptarangi).",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"browser_action": {
+		"default_title": "Embrace the Saptarangi!"
+	}
+}
