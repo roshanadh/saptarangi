@@ -1,7 +1,7 @@
 # saptarangi
 Chrome extension to change a webpage background to any of the seven colors in a rainbow (Saptarangi) :rainbow:
 
-# Usage
+## Install
 * Clone the repo
 ```
 git clone https://github.com/roshanadh/saptarangi/
